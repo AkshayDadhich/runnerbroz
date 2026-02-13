@@ -1,0 +1,7 @@
+{
+  "name": "RunnerBroz - The Ultimate Running Hub",
+  "description": "A comprehensive platform for passionate runners to track performance, register for events, shop merchandise, and stay informed about health and running awareness.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
